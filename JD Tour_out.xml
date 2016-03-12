@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <view fovmode="0" pannorth="148">
+      <start pan="3" fov="91" tilt="0.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Outside JD" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.240636944770813" latitude="53.47191361844877"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Entrance" target="42/2.5/117" pan="-5.15541" skinid="" url="{node11}" id="Point01" tilt="-1.51542"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Outside JD_o_0.jpg" prev5url="images/Outside JD_o_preview_5.jpg" prev4url="images/Outside JD_o_preview_4.jpg" prev3url="images/Outside JD_o_preview_3.jpg" prev2url="images/Outside JD_o_preview_2.jpg" prev1url="images/Outside JD_o_preview_1.jpg" prev0url="images/Outside JD_o_preview_0.jpg" tile5url="images/Outside JD_o_5.jpg" tilesize="313" tile4url="images/Outside JD_o_4.jpg" tile3url="images/Outside JD_o_3.jpg" tilescale="1.031949" tile2url="images/Outside JD_o_2.jpg" tile1url="images/Outside JD_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node11">
+    <view fovmode="0" pannorth="147">
+      <start pan="49.5" fov="120" tilt="5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD Entrance" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2402681410312653" latitude="53.471702082231374"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="Outside JD" target="0/0/70" pan="-127.912" skinid="" url="{node1}" id="Point01" tilt="-0.167387"/>
+      <hotspot title="JD 2nd Floor" target="310/0/101" pan="11.6119" skinid="" url="{node3}" id="Point02" tilt="-2.03017"/>
+      <hotspot title="JD Ground Floor Hallway" target="" pan="93.2885" skinid="" url="{node2}" id="Point03" tilt="-0.417947"/>
+      <hotspot title="JD C0.14 Lecture" target="3/0.5/102" pan="83.8477" skinid="" url="{node10}" id="Point04" tilt="-0.0662175"/>
+      <hotspot title="JD Reception" target="" pan="-52.1825" skinid="" url="" id="JD Reception" tilt="4.85973"/>
+      <hotspot title="JD Canteen" target="" pan="121.758" skinid="" url="{node19}" id="Point05" tilt="-2.02857"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD Entrance_o_0.jpg" prev5url="images/JD Entrance_o_preview_5.jpg" prev4url="images/JD Entrance_o_preview_4.jpg" prev3url="images/JD Entrance_o_preview_3.jpg" prev2url="images/JD Entrance_o_preview_2.jpg" prev1url="images/JD Entrance_o_preview_1.jpg" prev0url="images/JD Entrance_o_preview_0.jpg" tile5url="images/JD Entrance_o_5.jpg" tilesize="313" tile4url="images/JD Entrance_o_4.jpg" tile3url="images/JD Entrance_o_3.jpg" tilescale="1.031949" tile2url="images/JD Entrance_o_2.jpg" tile1url="images/JD Entrance_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2">
+    <view fovmode="0" pannorth="152">
+      <start pan="19" fov="120" tilt="-1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD Ground Floor Hallway" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239813506603241" latitude="53.47185215331691"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD C0.14 Lecture" target="0/0/103" pan="-36.7218" skinid="" url="{node10}" id="Point01" tilt="-0.185152"/>
+      <hotspot title="JD Entrance" target="53.5/11/120" pan="-88.8744" skinid="" url="{node11}" id="Point02" tilt="-0.984349"/>
+      <hotspot title="JD 1st Floor Hallway" target="34.5/-2/109" pan="1.73197" skinid="" url="{node9}" id="Point04" tilt="-0.13815"/>
+      <hotspot title="JD East Ground Floor" target="" pan="87.8067" skinid="" url="{node20}" id="Point03" tilt="-0.00845948"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD Ground Floor Hallway_o_0.jpg" prev5url="images/JD Ground Floor Hallway_o_preview_5.jpg" prev4url="images/JD Ground Floor Hallway_o_preview_4.jpg" prev3url="images/JD Ground Floor Hallway_o_preview_3.jpg" prev2url="images/JD Ground Floor Hallway_o_preview_2.jpg" prev1url="images/JD Ground Floor Hallway_o_preview_1.jpg" prev0url="images/JD Ground Floor Hallway_o_preview_0.jpg" tile5url="images/JD Ground Floor Hallway_o_5.jpg" tilesize="313" tile4url="images/JD Ground Floor Hallway_o_4.jpg" tile3url="images/JD Ground Floor Hallway_o_3.jpg" tilescale="1.031949" tile2url="images/JD Ground Floor Hallway_o_2.jpg" tile1url="images/JD Ground Floor Hallway_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3">
+    <view fovmode="0" pannorth="-27">
+      <start pan="272.5" fov="88" tilt="-0.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD 2nd Floor" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2401970624923706" latitude="53.47156797570598"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Outside C2.04" target="3/-3/118" pan="-89.4526" skinid="" url="{node4}" id="Point01" tilt="-1.98477"/>
+      <hotspot title="JD Entrance" target="47.5/1.5/91" pan="2.44659" skinid="" url="{node11}" id="Point02" tilt="-4.43246"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD 2nd Floor_o_0.jpg" prev5url="images/JD 2nd Floor_o_preview_5.jpg" prev4url="images/JD 2nd Floor_o_preview_4.jpg" prev3url="images/JD 2nd Floor_o_preview_3.jpg" prev2url="images/JD 2nd Floor_o_preview_2.jpg" prev1url="images/JD 2nd Floor_o_preview_1.jpg" prev0url="images/JD 2nd Floor_o_preview_0.jpg" tile5url="images/JD 2nd Floor_o_5.jpg" tilesize="313" tile4url="images/JD 2nd Floor_o_4.jpg" tile3url="images/JD 2nd Floor_o_3.jpg" tilescale="1.031949" tile2url="images/JD 2nd Floor_o_2.jpg" tile1url="images/JD 2nd Floor_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node4">
+    <view fovmode="0" pannorth="341.5">
+      <start pan="6" fov="103" tilt="-3.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD Outside C2.04" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239997237920761" latitude="53.47162465172974"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Inside C2.04" target="355.5/-0.5/105" pan="5.11023" skinid="" url="{node6}" id="Point01" tilt="-7.78141"/>
+      <hotspot title="JD 2nd Floor" target="" pan="91.6751" skinid="" url="{node3}" id="Point02" tilt="-6.47078"/>
+      <hotspot title="JD Outside C2.05" target="3.5/0/116" pan="-83.0524" skinid="" url="{node5}" id="Point03" tilt="-0.101245"/>
+      <hotspot title="JD 2nd Floor Hallway End" target="38.5/1.5/103" pan="-91.6704" skinid="" url="{node8}" id="Point04" tilt="-0.760337"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/C2_04_o_0.jpg" prev5url="images/C2_04_o_preview_5.jpg" prev4url="images/C2_04_o_preview_4.jpg" prev3url="images/C2_04_o_preview_3.jpg" prev2url="images/C2_04_o_preview_2.jpg" prev1url="images/C2_04_o_preview_1.jpg" prev0url="images/C2_04_o_preview_0.jpg" tile5url="images/C2_04_o_5.jpg" tilesize="313" tile4url="images/C2_04_o_4.jpg" tile3url="images/C2_04_o_3.jpg" tilescale="1.031949" tile2url="images/C2_04_o_2.jpg" tile1url="images/C2_04_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5">
+    <view fovmode="0" pannorth="0.5">
+      <start pan="1" fov="100" tilt="-5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD Outside C2.05" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2398000955581665" latitude="53.471692503207926"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Outside C2.04" target="4.5/0.5/102" pan="81.8843" skinid="" url="{node4}" id="Point01" tilt="-5.84259"/>
+      <hotspot title="JD 2nd Floor" target="305.5/-1.5/97" pan="91.969" skinid="" url="{node3}" id="Point02" tilt="-4.7566"/>
+      <hotspot title="Inside C2_05" target="190/-5.5/82" pan="-2.60023" skinid="" url="{node7}" id="Point03" tilt="-4.34233"/>
+      <hotspot title="JD 2nd Floor Hallway End" target="48/2.5/113" pan="-95.5953" skinid="" url="{node8}" id="Point04" tilt="-0.913779"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/C2_05_o_0.jpg" prev5url="images/C2_05_o_preview_5.jpg" prev4url="images/C2_05_o_preview_4.jpg" prev3url="images/C2_05_o_preview_3.jpg" prev2url="images/C2_05_o_preview_2.jpg" prev1url="images/C2_05_o_preview_1.jpg" prev0url="images/C2_05_o_preview_0.jpg" tile5url="images/C2_05_o_5.jpg" tilesize="313" tile4url="images/C2_05_o_4.jpg" tile3url="images/C2_05_o_3.jpg" tilescale="1.031949" tile2url="images/C2_05_o_2.jpg" tile1url="images/C2_05_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10">
+    <view fovmode="0" pannorth="267.5">
+      <start pan="0" fov="110" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD C0.14 Lecture" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239735722541809" latitude="53.471794679346864"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD 1st Floor Hallway" target="36.5/5/120" pan="-9.68802" skinid="" url="{node9}" id="Point01" tilt="12.3827"/>
+      <hotspot title="JD Ground Floor Hallway" target="27/-5/120" pan="-94.5071" skinid="" url="{node2}" id="Point02" tilt="-5.94625"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD C0_14 Lecture_o_0.jpg" prev5url="images/JD C0_14 Lecture_o_preview_5.jpg" prev4url="images/JD C0_14 Lecture_o_preview_4.jpg" prev3url="images/JD C0_14 Lecture_o_preview_3.jpg" prev2url="images/JD C0_14 Lecture_o_preview_2.jpg" prev1url="images/JD C0_14 Lecture_o_preview_1.jpg" prev0url="images/JD C0_14 Lecture_o_preview_0.jpg" tile5url="images/JD C0_14 Lecture_o_5.jpg" tilesize="313" tile4url="images/JD C0_14 Lecture_o_4.jpg" tile3url="images/JD C0_14 Lecture_o_3.jpg" tilescale="1.031949" tile2url="images/JD C0_14 Lecture_o_2.jpg" tile1url="images/JD C0_14 Lecture_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6">
+    <view fovmode="0" pannorth="263">
+      <start pan="313" fov="120" tilt="7.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD Inside C2.04" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2400347888469696" latitude="53.47167893292096"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Outside C2.04" target="7.5/-2.5/118" pan="100.798" skinid="" url="{node4}" id="Point01" tilt="-6.48263"/>
+    </hotspots>
+    <media>
+      <image width="1473" rotx="11.000" roty="44.000" rotz="-5.000" pan="-143.130" stretch="1.000" fov="24.330" height="2036" id="_element_0" tilt="6.900" clickmode="1">
+        <source url="Why Enroll at MMU.png"/>
+      </image>
+      <video pansize="10.000" id="_element_1" level="1.000" stretch="1.000" rotx="18.000" clickmode="4" roty="-2.000" mode="2" rotz="2.000" width="610" ambientlevel="0.000" field="90.000" pan="169.500" tilt="12.930" height="360" loop="-1" fov="63.660" tiltsize="10.000">
+        <source url="mmu_video.mp4"/>
+      </video>
+    </media>
+    <input tile0url="images/Inside C2_04_o_0.jpg" prev5url="images/Inside C2_04_o_preview_5.jpg" prev4url="images/Inside C2_04_o_preview_4.jpg" prev3url="images/Inside C2_04_o_preview_3.jpg" prev2url="images/Inside C2_04_o_preview_2.jpg" prev1url="images/Inside C2_04_o_preview_1.jpg" prev0url="images/Inside C2_04_o_preview_0.jpg" tile5url="images/Inside C2_04_o_5.jpg" tilesize="313" tile4url="images/Inside C2_04_o_4.jpg" tile3url="images/Inside C2_04_o_3.jpg" tilescale="1.031949" tile2url="images/Inside C2_04_o_2.jpg" tile1url="images/Inside C2_04_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7">
+    <view fovmode="0" pannorth="99.5">
+      <start pan="135.5" fov="120" tilt="-4.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Inside C2.05" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2398336231708527" latitude="53.47173640704774"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Outside C2.05" target="0/0/104" pan="-69.8543" skinid="" url="{node5}" id="Point01" tilt="-0.0576724"/>
+    </hotspots>
+    <media>
+      <image width="1473" rotx="15.000" roty="49.000" rotz="-13.000" pan="56.300" stretch="1.000" fov="23.570" height="2036" id="_element_0" tilt="8.800" clickmode="1">
+        <source url="Why Enroll at MMU.png"/>
+      </image>
+      <video pansize="10.000" id="_element_1" level="1.000" stretch="1.000" rotx="20.000" clickmode="4" roty="-6.000" mode="1" rotz="0.000" width="640" ambientlevel="0.000" field="90.000" pan="1.250" tilt="20.310" height="360" loop="-1" fov="74.620" tiltsize="10.000">
+        <source url="mmu_video.mp4"/>
+      </video>
+    </media>
+    <input tile0url="images/Inside C2_05_o_0.jpg" prev5url="images/Inside C2_05_o_preview_5.jpg" prev4url="images/Inside C2_05_o_preview_4.jpg" prev3url="images/Inside C2_05_o_preview_3.jpg" prev2url="images/Inside C2_05_o_preview_2.jpg" prev1url="images/Inside C2_05_o_preview_1.jpg" prev0url="images/Inside C2_05_o_preview_0.jpg" tile5url="images/Inside C2_05_o_5.jpg" tilesize="313" tile4url="images/Inside C2_05_o_4.jpg" tile3url="images/Inside C2_05_o_3.jpg" tilescale="1.031949" tile2url="images/Inside C2_05_o_2.jpg" tile1url="images/Inside C2_05_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8">
+    <view fovmode="0" pannorth="267">
+      <start pan="50" fov="120" tilt="1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD 2nd Floor Hallway End" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2396713495254517" latitude="53.47173800355014"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Outside C2.05" target="" pan="-7.64266" skinid="" url="{node5}" id="Point01" tilt="-1.95828"/>
+      <hotspot title="JD 1st Floor Hallway" target="" pan="106.173" skinid="" url="{node9}" id="Point02" tilt="-7.16685"/>
+      <hotspot title="JD Outside C2.04" target="" pan="-3.22484" skinid="" url="{node4}" id="Point03" tilt="0.0225875"/>
+      <hotspot title="JD 2nd Floor" target="319.5/1.5/103" pan="0.226305" skinid="" url="{node3}" id="Point04" tilt="2.74769"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD 2nd Floor Stairs_o_0.jpg" prev5url="images/JD 2nd Floor Stairs_o_preview_5.jpg" prev4url="images/JD 2nd Floor Stairs_o_preview_4.jpg" prev3url="images/JD 2nd Floor Stairs_o_preview_3.jpg" prev2url="images/JD 2nd Floor Stairs_o_preview_2.jpg" prev1url="images/JD 2nd Floor Stairs_o_preview_1.jpg" prev0url="images/JD 2nd Floor Stairs_o_preview_0.jpg" tile5url="images/JD 2nd Floor Stairs_o_5.jpg" tilesize="313" tile4url="images/JD 2nd Floor Stairs_o_4.jpg" tile3url="images/JD 2nd Floor Stairs_o_3.jpg" tilescale="1.031949" tile2url="images/JD 2nd Floor Stairs_o_2.jpg" tile1url="images/JD 2nd Floor Stairs_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9">
+    <view fovmode="0" pannorth="171.5">
+      <start pan="36" fov="109" tilt="-1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD 1st Floor Hallway" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2398054599761963" latitude="53.47184975856971"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD 2nd Floor Hallway End" target="41.5/1/105" pan="-3.70321" skinid="" url="{node8}" id="Point01" tilt="5.55987"/>
+      <hotspot title="JD 1st Floor Window PC's" target="114/-1.5/107" pan="-94.7689" skinid="" url="{node17}" id="Point02" tilt="-0.945645"/>
+      <hotspot title="JD East 1st Floor Hallway" target="140.5/0/102" pan="85.1619" skinid="" url="{node12}" id="Point03" tilt="-0.502778"/>
+      <hotspot title="JD Ground Floor Hallway" target="23.5/-2/120" pan="-3.5787" skinid="" url="{node2}" id="Point04" tilt="-0.559145"/>
+      <hotspot title="JD C0.14 Lecture" target="5.5/0/113" pan="-77.3958" skinid="" url="{node10}" id="Point05" tilt="-0.977486"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD 1st Floor Hallway_o_0.jpg" prev5url="images/JD 1st Floor Hallway_o_preview_5.jpg" prev4url="images/JD 1st Floor Hallway_o_preview_4.jpg" prev3url="images/JD 1st Floor Hallway_o_preview_3.jpg" prev2url="images/JD 1st Floor Hallway_o_preview_2.jpg" prev1url="images/JD 1st Floor Hallway_o_preview_1.jpg" prev0url="images/JD 1st Floor Hallway_o_preview_0.jpg" tile5url="images/JD 1st Floor Hallway_o_5.jpg" tilesize="313" tile4url="images/JD 1st Floor Hallway_o_4.jpg" tile3url="images/JD 1st Floor Hallway_o_3.jpg" tilescale="1.031949" tile2url="images/JD 1st Floor Hallway_o_2.jpg" tile1url="images/JD 1st Floor Hallway_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node12">
+    <view fovmode="0" pannorth="2.5">
+      <start pan="356" fov="113" tilt="-2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD East 1st Floor Hallway" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239287793636322" latitude="53.472003022117974"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD East E1.45 Lecture " target="355/0/114" pan="-167.72" skinid="" url="{node16}" id="Point01" tilt="1.3763"/>
+      <hotspot title="JD 1st Floor Hallway" target="42/-3/91" pan="93.7406" skinid="" url="{node9}" id="Point03" tilt="1.0051"/>
+      <hotspot title="JD East Ground Floor" target="" pan="-66.9054" skinid="" url="{node20}" id="Point02" tilt="-31.3937"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD East 1st Floor_o_0.jpg" prev5url="images/JD East 1st Floor_o_preview_5.jpg" prev4url="images/JD East 1st Floor_o_preview_4.jpg" prev3url="images/JD East 1st Floor_o_preview_3.jpg" prev2url="images/JD East 1st Floor_o_preview_2.jpg" prev1url="images/JD East 1st Floor_o_preview_1.jpg" prev0url="images/JD East 1st Floor_o_preview_0.jpg" tile5url="images/JD East 1st Floor_o_5.jpg" tilesize="313" tile4url="images/JD East 1st Floor_o_4.jpg" tile3url="images/JD East 1st Floor_o_3.jpg" tilescale="1.031949" tile2url="images/JD East 1st Floor_o_2.jpg" tile1url="images/JD East 1st Floor_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16">
+    <view fovmode="0" pannorth="176.5">
+      <start pan="353.5" fov="120" tilt="-6"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD East E1.45 Lecture " datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2392676770687103" latitude="53.47195991680096"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD East 1st Floor Hallway" target="306.5/-8/84" pan="101.547" skinid="" url="{node12}" id="Point01" tilt="-1.16177"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD East E1_45 Lecture_o_0.jpg" prev5url="images/JD East E1_45 Lecture_o_preview_5.jpg" prev4url="images/JD East E1_45 Lecture_o_preview_4.jpg" prev3url="images/JD East E1_45 Lecture_o_preview_3.jpg" prev2url="images/JD East E1_45 Lecture_o_preview_2.jpg" prev1url="images/JD East E1_45 Lecture_o_preview_1.jpg" prev0url="images/JD East E1_45 Lecture_o_preview_0.jpg" tile5url="images/JD East E1_45 Lecture_o_5.jpg" tilesize="313" tile4url="images/JD East E1_45 Lecture_o_4.jpg" tile3url="images/JD East E1_45 Lecture_o_3.jpg" tilescale="1.031949" tile2url="images/JD East E1_45 Lecture_o_2.jpg" tile1url="images/JD East E1_45 Lecture_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14">
+    <view fovmode="0" pannorth="340">
+      <start pan="181.5" fov="108" tilt="-4.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="Student Hub" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2391416132450104" latitude="53.47196789927038"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD East Ground Floor" target="" pan="-27.6345" skinid="" url="{node20}" id="Point01" tilt="-0.712978"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Student Hub_o_0.jpg" prev5url="images/Student Hub_o_preview_5.jpg" prev4url="images/Student Hub_o_preview_4.jpg" prev3url="images/Student Hub_o_preview_3.jpg" prev2url="images/Student Hub_o_preview_2.jpg" prev1url="images/Student Hub_o_preview_1.jpg" prev0url="images/Student Hub_o_preview_0.jpg" tile5url="images/Student Hub_o_5.jpg" tilesize="313" tile4url="images/Student Hub_o_4.jpg" tile3url="images/Student Hub_o_3.jpg" tilescale="1.031949" tile2url="images/Student Hub_o_2.jpg" tile1url="images/Student Hub_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <view fovmode="0" pannorth="65">
+      <start pan="175" fov="106" tilt="-10"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD East Window PC's" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239377647638321" latitude="53.47211717117191"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD East Ground Floor" target="" pan="-53.6903" skinid="" url="{node20}" id="Point01" tilt="-2.44112"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD East Window PC's_o_0.jpg" prev5url="images/JD East Window PC's_o_preview_5.jpg" prev4url="images/JD East Window PC's_o_preview_4.jpg" prev3url="images/JD East Window PC's_o_preview_3.jpg" prev2url="images/JD East Window PC's_o_preview_2.jpg" prev1url="images/JD East Window PC's_o_preview_1.jpg" prev0url="images/JD East Window PC's_o_preview_0.jpg" tile5url="images/JD East Window PC's_o_5.jpg" tilesize="313" tile4url="images/JD East Window PC's_o_4.jpg" tile3url="images/JD East Window PC's_o_3.jpg" tilescale="1.031949" tile2url="images/JD East Window PC's_o_2.jpg" tile1url="images/JD East Window PC's_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13">
+    <view fovmode="0" pannorth="-21">
+      <start pan="185" fov="120" tilt="-11"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD East E0.34 Lecture " datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.239236831665039" latitude="53.47191760968801"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD East Ground Floor" target="" pan="-81.9187" skinid="" url="{node20}" id="Point01" tilt="-1.67999"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD E0_34 Lecture_o_0.jpg" prev5url="images/JD E0_34 Lecture_o_preview_5.jpg" prev4url="images/JD E0_34 Lecture_o_preview_4.jpg" prev3url="images/JD E0_34 Lecture_o_preview_3.jpg" prev2url="images/JD E0_34 Lecture_o_preview_2.jpg" prev1url="images/JD E0_34 Lecture_o_preview_1.jpg" prev0url="images/JD E0_34 Lecture_o_preview_0.jpg" tile5url="images/JD E0_34 Lecture_o_5.jpg" tilesize="313" tile4url="images/JD E0_34 Lecture_o_4.jpg" tile3url="images/JD E0_34 Lecture_o_3.jpg" tilescale="1.031949" tile2url="images/JD E0_34 Lecture_o_2.jpg" tile1url="images/JD E0_34 Lecture_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17">
+    <view fovmode="0" pannorth="73">
+      <start pan="121.5" fov="102" tilt="-1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD 1st Floor Window PC's" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.240411639213562" latitude="53.4716541870924"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD 1st Floor Hallway" target="37/-1.5/92" pan="1.71405" skinid="" url="{node9}" id="Point01" tilt="0.142618"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD 1st Floor Window PC's_o_0.jpg" prev5url="images/JD 1st Floor Window PC's_o_preview_5.jpg" prev4url="images/JD 1st Floor Window PC's_o_preview_4.jpg" prev3url="images/JD 1st Floor Window PC's_o_preview_3.jpg" prev2url="images/JD 1st Floor Window PC's_o_preview_2.jpg" prev1url="images/JD 1st Floor Window PC's_o_preview_1.jpg" prev0url="images/JD 1st Floor Window PC's_o_preview_0.jpg" tile5url="images/JD 1st Floor Window PC's_o_5.jpg" tilesize="313" tile4url="images/JD 1st Floor Window PC's_o_4.jpg" tile3url="images/JD 1st Floor Window PC's_o_3.jpg" tilescale="1.031949" tile2url="images/JD 1st Floor Window PC's_o_2.jpg" tile1url="images/JD 1st Floor Window PC's_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node19">
+    <view fovmode="0" pannorth="7.5">
+      <start pan="299" fov="97" tilt="2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD Canteen" datetime="2016:03:09 17:18:59" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.240183651447296" latitude="53.47182820583881"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD Entrance" target="" pan="140.292" skinid="" url="{node11}" id="Point01" tilt="-2.10764"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/Canteen_o_0.jpg" prev5url="images/Canteen_o_preview_5.jpg" prev4url="images/Canteen_o_preview_4.jpg" prev3url="images/Canteen_o_preview_3.jpg" prev2url="images/Canteen_o_preview_2.jpg" prev1url="images/Canteen_o_preview_1.jpg" prev0url="images/Canteen_o_preview_0.jpg" tile5url="images/Canteen_o_5.jpg" tilesize="313" tile4url="images/Canteen_o_4.jpg" tile3url="images/Canteen_o_3.jpg" tilescale="1.031949" tile2url="images/Canteen_o_2.jpg" tile1url="images/Canteen_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+  <panorama id="node20">
+    <view fovmode="0" pannorth="62">
+      <start pan="247.5" fov="116" tilt="1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata title="JD East Ground Floor" datetime="" description="" copyright="" tags="" author="" source="" comment="" info="" longitude="-2.2392207384109497" latitude="53.47206289054121"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" backgroundalpha="1" enabled="1" height="20" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" wordwrap="1" textalpha="1"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" backgroundcolor="0x0000ff" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot title="JD East E0.34 Lecture " target="" pan="-127.926" skinid="" url="{node13}" id="Point01" tilt="0.14143"/>
+      <hotspot title="JD East Window PC's" target="" pan="140.534" skinid="" url="{node15}" id="Point02" tilt="0.862361"/>
+      <hotspot title="Student Hub" target="" pan="-81.8842" skinid="" url="{node14}" id="Point03" tilt="-1.49492"/>
+      <hotspot title="JD East 1st Floor Hallway" target="" pan="174.925" skinid="" url="{node12}" id="Point04" tilt="52.2831"/>
+      <hotspot title="JD Ground Floor Hallway" target="" pan="-161.905" skinid="" url="{node2}" id="Point05" tilt="-0.232952"/>
+    </hotspots>
+    <media/>
+    <input tile0url="images/JD East Ground Floor_o_0.jpg" prev5url="images/JD East Ground Floor_o_preview_5.jpg" prev4url="images/JD East Ground Floor_o_preview_4.jpg" prev3url="images/JD East Ground Floor_o_preview_3.jpg" prev2url="images/JD East Ground Floor_o_preview_2.jpg" prev1url="images/JD East Ground Floor_o_preview_1.jpg" prev0url="images/JD East Ground Floor_o_preview_0.jpg" tile5url="images/JD East Ground Floor_o_5.jpg" tilesize="313" tile4url="images/JD East Ground Floor_o_4.jpg" tile3url="images/JD East Ground Floor_o_3.jpg" tilescale="1.031949" tile2url="images/JD East Ground Floor_o_2.jpg" tile1url="images/JD East Ground Floor_o_1.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <control simulatemass="1" lockedmouse="0" lockedkeyboard="0" dblclickfullscreen="0" invertwheel="0" lockedwheel="0" invertcontrol="1" speedwheel="1" sensitivity="8"/>
+  </panorama>
+</tour>

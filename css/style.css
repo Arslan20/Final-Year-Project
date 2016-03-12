@@ -1,0 +1,176 @@
+@charset "utf-8";
+/* body css */
+body {
+	font: 100%/1.4 
+	background-color: #00508b;
+	margin: 0;
+	color: #000;
+}
+/* ul ol dl css */
+ul, ol, dl { 
+	padding: 0;
+	margin: 0;
+}
+/* h1, h2, h3, h4, h5, h6, p css */
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	
+	padding-right: 15px;
+	padding-left: 15px; 
+	text-align:center;
+	color:#FFFFFF;
+}
+
+
+a img { 
+	border: none;
+	
+}
+
+/* website links css  */
+a:visited {
+	color: #00508b;
+}
+
+
+/* container div*/
+.container {
+	width: 960px;
+	background-color: #FFF;
+	margin: 0 auto; 
+	outline: #00508b solid thin;
+}
+
+/* logo css */
+.logo {
+	background-color:#00508b;
+	float:left;
+}
+/* banner css */
+.banner {
+	background-color:#00508b;
+	float:left;	
+}
+/* sidebar css */
+.sidebar1 {
+	float: left;
+	width: 180px;
+	height:	1200px;
+	background-color:#00508b;
+	position: inherit;
+}
+
+/* content css */
+.content {
+	background-color:#FFFFFF;
+	padding: 10px 0px;
+	width: 780px;
+	height: 1180px;
+	float: left;
+}
+
+/* content h1 css */
+.content h1{
+	text-align:center;
+	color:#000000;
+	font-family:"Charlemagne Std";
+	text-decoration: underline;
+	
+	
+}
+
+/* content p css */
+.content p{
+	text-align:center;
+	color:#000000;
+	font-family:"CCharlemagne Std";
+	
+}
+
+/* content ul, content ol css */
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px; 
+}
+
+/* content li css */
+.content li {
+	color:#000000;
+	font-family: "Cambria";
+	
+}
+
+
+/* ~~ The navigation list styles  */
+ul.nav {
+	list-style: none; 
+	border-top: 1px solid #FFF;
+	
+}
+
+ul.nav li {
+	border-bottom: 1px solid #FFF;
+	text-align:center;
+	
+	
+}
+
+ul.nav a, ul.nav a:visited { 
+	padding: 5px 5px 5px 15px;
+	display: block; 
+	width: 160px;  
+	text-decoration: none;
+	background-color: #00508b;
+	color: #FFF;
+	
+	
+}
+
+ul.nav a:hover, ul.nav a:active, ul.nav a:focus { 
+	background-color:#00508b;
+	color: #FFF;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20px;
+	
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	text-align:center;
+	padding: 10px 0;
+	background-color: #c0c0c0;
+	position: relative;
+	clear: both; 
+}
+
+.fltrt {  /* this class can be used to float an element right in your page.*/
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page.*/
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+
+
+
+	
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
